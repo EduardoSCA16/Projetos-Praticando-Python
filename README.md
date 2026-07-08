@@ -28,8 +28,8 @@ Pequenos projetos desenvolvidos durante o curso:
 - 🔢 Contador de Vogais
 - 📝 Contador de Palavras Longas
 - 💰 Calculadora de Gorjeta
-- 🧮 Calculadora com Tratamento de Erros 🚧 Em desenvolvimento
-- ✅ Gerenciador de Tarefas 🚧 Em desenvolvimento
+- 🧮 Calculadora com Tratamento de Erros
+- ✅ Gerenciador de Tarefas
 - 💵 Contador de Cédulas Únicas 🚧 Em desenvolvimento
 
 ## 🚀 Tecnologias
