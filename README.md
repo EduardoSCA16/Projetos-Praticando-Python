@@ -30,7 +30,7 @@ Pequenos projetos desenvolvidos durante o curso:
 - 💰 Calculadora de Gorjeta
 - 🧮 Calculadora com Tratamento de Erros
 - ✅ Gerenciador de Tarefas
-- 💵 Contador de Cédulas Únicas 🚧 Em desenvolvimento
+- 💵 Contador de Cédulas Únicas 
 
 ## 🚀 Tecnologias
 
